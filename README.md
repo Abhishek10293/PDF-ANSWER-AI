@@ -85,11 +85,11 @@ The "PDF Question Answering AI" project successfully showcases the potential of 
 
 1. Clone this repository:
     ```bash
-   git clone https://github.com/kanika-04/Pdf-Answering-AI
+   git clone https://github.com/Abhishek10293/PDF-ANSWER-AI
     ```
 2. Navigate to the project directory:
     ```bash
-    cd ./Pdf-Answering-AI/
+    cd ./PDF-ANSWER-AI/
     next line:
     cd ./app/
     ```
@@ -114,4 +114,4 @@ After that a link will be displayed on your terminal , open it and then pdf-answ
 - https://nlp.seas.harvard.edu/2018/04/03/attention.html
 ## More Knowledge
 For more information about my project you can view the project report created by me :
-https://drive.google.com/file/d/1yt4YVkT2quRBBSEmk9gbVbRi8b6Hs1S-/view?usp=sharing
+https://drive.google.com/file/d/1XXEWfJxxzGK0qgbadSTP_zT5X6vkRRzH/view?usp=sharing
